@@ -44,9 +44,7 @@
      *          "sencha-charts"
      *      ]
      */
-    "requires": [
-        "chaki-test-module-B"
-    ],
+    "requires": [],
 
     /**
      * Sass configuration properties.
